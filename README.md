@@ -1,6 +1,7 @@
 Hi there 👋
 
-I'm studying HTML | CSS | JavaScript I'm 16 years old, I'm starting to study
+I'm studying HTML | CSS | JavaScript I'm 16 years old
+I'm starting to study
 <!--
 **LuisHeli/LuisHeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
