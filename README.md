@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm studying HTML | CSS | JavaScript<br/> I'm 16 years old <br/>
 I'm starting to study <br/>
-%F0%9F%87%A7%F0%9F%87%B7 I'm brazilian
+&#x1F1E7;&#x1F1F7; I'm brazilian
 <!--
 **LuisHeli/LuisHeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
