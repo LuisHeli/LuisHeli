@@ -2,7 +2,8 @@ Hi there 👋
 
 I'm studying HTML | CSS | JavaScript<br/> I'm 16 years old <br/>
 I'm starting to study <br/>
-🇧🇷 I'm brazilian
+![image](https://user-images.githubusercontent.com/100587709/156023371-24549fce-5dfb-4b64-a967-cd5ea270f345.png)
+I'm brazilian
 <!--
 **LuisHeli/LuisHeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
