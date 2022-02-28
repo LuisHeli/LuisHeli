@@ -1,7 +1,7 @@
 Hi there 👋
 
-I'm studying HTML | CSS | JavaScript<br/> I'm 16 years old <br/>
-I'm starting to study <br/>
+🌱 I'm studying HTML | CSS | JavaScript<br/> I'm 16 years old <br/>
+⚡ I'm starting to study <br/>
 <img src="https://user-images.githubusercontent.com/100587709/156024681-34c918a6-5481-4d30-98f4-e29aae2bd0e6.png" width= "20px"/> I'm 
 Brazilian
 <!--
