@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm studying HTML | CSS | JavaScript<br/> I'm 16 years old <br/>
 I'm starting to study <br/>
-&#x1F1E7;&#x1F1F7; I'm brazilian
+<img src="https://images.emojiterra.com/google/noto-emoji/v2.028/128px/1f1e7-1f1f7.png" width: "30px"/> I'm brazilian
 <!--
 **LuisHeli/LuisHeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
