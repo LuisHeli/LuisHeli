@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm studying HTML | CSS | JavaScript<br/> I'm 16 years old <br/>
 I'm starting to study <br/>
-<img src="https://images.emojiterra.com/google/noto-emoji/v2.028/128px/1f1e7-1f1f7.png" width: "30px"/> I'm brazilian
+<img src="https://user-images.githubusercontent.com/100587709/156024681-34c918a6-5481-4d30-98f4-e29aae2bd0e6.png" width: "30px"/> I'm brazilian
 <!--
 **LuisHeli/LuisHeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
