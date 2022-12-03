@@ -4,7 +4,7 @@ Hi there 👋
 ⚡ I'm 16 years old <br/>
 <hr></hr>
 <div style="display:block">
-  <span style="padding:30px"><img width="50px"  src="react-original.svg"/></span>
+  <span style="padding:3px"><img width="50px"  src="react-original.svg"/></span>
 <img width="50px" src="javascript-plain.svg"/>
 <img width="50px" src="typescript-original.svg"/>
 <img width="50px" src="css3-original.svg"/>
