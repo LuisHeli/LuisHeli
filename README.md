@@ -1,10 +1,10 @@
 Hi there 👋
 
-🌱 I'm studying CSS | JavaScript | React in <a href="https://programadorbr.com" target="_blank"> Programador Br</a><br/> 
+🌱 I'm studying | ReactJS | React Native | Javascript | in <a href="https://programadorbr.com" target="_blank"> Programador Br</a><br/><br/>
 ⚡ I'm 16 years old <br/>
-🔭 I'm starting to study <br/>
-<img src="https://user-images.githubusercontent.com/100587709/156024681-34c918a6-5481-4d30-98f4-e29aae2bd0e6.png" width= "20px"/> I'm 
-Brazilian
+<hr></hr> <img src="">
+<!--
+<img src="file:///C:/Users/pc/Downloads/react-original.svg"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img src="https://camo.githubusercontent.com/29e705dcac8d111d67e72cab2037b3d7a5a8dc63ca9291a7a3f226baccb07f28/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6f64656a732d69636f6e2e737667"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <!--
 **LuisHeli/LuisHeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
