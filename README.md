@@ -3,8 +3,8 @@ Hi there 👋
 🌱 I'm studying | ReactJS | React Native | Javascript | in <a href="https://programadorbr.com" target="_blank"> Programador Br</a><br/><br/>
 ⚡ I'm 16 years old <br/>
 <hr></hr>
-<div style="display:inline_block" style="padding:5px>
-<img width="50px" src="react-original.svg"/>
+<div style="display:block">
+<img width="50px"  src="react-original.svg"/>
 <img width="50px" src="javascript-plain.svg"/>
 <img width="50px" src="typescript-original.svg"/>
 <img width="50px" src="css3-original.svg"/>
