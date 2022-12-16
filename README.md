@@ -1,6 +1,6 @@
 Hi there 👋
 
-🌱 I'm studying | ReactJS | React Native | Javascript | in <a href="https://programadorbr.com" target="_blank"> Programador Br</a><br/><br/>
+🌱 I'm Front-End Developer | ReactJS | React Native | Javascript <br/><br/>
 ⚡ I'm 16 years old <br/>
 <hr></hr>
 <div style="display:block">
