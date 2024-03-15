@@ -1,7 +1,7 @@
 Hi there 👋
 
 🌱 I'm Front-End Developer | ReactJS | React Native | Javascript <br/><br/>
-⚡ I'm 16 years old <br/>
+⚡ I've been a developer since I was 15 <br/>
 <hr></hr>
 <div style="display:block">
  <img width="50px"  src="react-original.svg"/>
